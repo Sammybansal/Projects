@@ -17,16 +17,6 @@ I'm a data-driven professional passionate about enhancing business success throu
 - LinkedIn: [Your LinkedIn]([www.linkedin.com/in/samarth-bansal-370225145](https://www.linkedin.com/in/samarth-bansal-370225145/))
 - Email: bansa115@purdue.edu
 
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
-<table>
-  <tr>
-    <td style="background-image: url('https://github.com/Sammybansal/Projects/blob/main/DALL%C2%B7E%202024-01-09%2013.25.58%20-%20A%20professional%2C%20tech-themed%20banner%20image%20for%20a%20GitHub%20profile%2C%20featuring%20sleek%2C%20abstract%20designs%20related%20to%20data%20and%20technology.%20The%20design%20should%20be%20.png');">
-      
-
-    </td>
-  </tr>
-</table>
 
 
